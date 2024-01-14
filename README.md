@@ -11,3 +11,18 @@ Utilizing:
 - MongoDB
 - CORS
 
+## Steps to run
+
+1) 
+a. Replace path to stack directory (index.js line 17) with your own path storing "stack"
+b. Navigate to this directory and run `scrapy crawl stack`
+
+---
+2)
+a. Download MongoDB Compass if not already downloaded
+b. Copy connection string from MongoDB and replace (index.js line 13) if necessary
+---
+3)
+a. `nodemon index.js` in server directory
+b. `npm start` in client directory 
+C. Reload to obtain and display new data from stackoverflow.com
