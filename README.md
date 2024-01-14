@@ -23,6 +23,7 @@ b. Navigate to this directory and run `scrapy crawl stack`
 a. Download MongoDB Compass if not already downloaded
 
 b. Copy connection string from MongoDB and replace (index.js line 13) if necessary
+
 ---
 3)
 a. `nodemon index.js` in server directory
