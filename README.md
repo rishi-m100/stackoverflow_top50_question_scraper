@@ -30,4 +30,4 @@ a. `nodemon index.js` in server directory
 
 b. `npm start` in client directory 
 
-C. Reload to obtain and display new data from stackoverflow.com
+c. Reload to obtain and display new data from stackoverflow.com
